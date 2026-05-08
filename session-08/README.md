@@ -1,4 +1,5 @@
 # 第 8 堂：從回測到實盤 + 系統化框架
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marttychang-del/quant-course/blob/main/session-08/08_bench_to_live.ipynb)
 
 **目標：** 建立可運作的量化交易日常流程，完成期末專案提案
 

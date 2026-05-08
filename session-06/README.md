@@ -1,4 +1,5 @@
 # 第 6 堂：統計套利與事件驅動（初階）
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marttychang-del/quant-course/blob/main/session-06/06_pair_trading.ipynb)
 
 **目標：** 理解兩種不需要預測市場方向的Alpha來源
 

@@ -1,4 +1,5 @@
 # 第 3 堂：基礎統計與金融時間序列
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marttychang-del/quant-course/blob/main/session-03/03_historical_volatility.ipynb)
 
 **目標：** 建立統計直覺，理解均值回歸 vs 趨勢動能的核心邏輯
 

@@ -1,4 +1,5 @@
 # 第 5 堂：風險管理與資金管理
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marttychang-del/quant-course/blob/main/session-05/05_risk_management.ipynb)
 
 **目標：** 建立帳號活下去的核心知識——停損紀律與部位計算
 

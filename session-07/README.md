@@ -1,4 +1,5 @@
 # 第 7 堂：因子模型與智慧組合
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marttychang-del/quant-course/blob/main/session-07/07_factor_model.ipynb)
 
 **目標：** 從 Alpha 因子角度理解自己的持股，建立 Smart Beta 組合概念
 

@@ -1,4 +1,5 @@
 # 第 4 堂：策略骨架——均線與動能策略
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marttychang-del/quant-course/blob/main/session-04/04_ma_rsi_backtest.ipynb)
 
 **目標：** 完成一套完整的「想法 → 寫策略 → 回測 → 看績效」流程
 

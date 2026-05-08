@@ -1,4 +1,5 @@
 # 第 2 堂：金融數據基礎
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marttychang-del/quant-course/blob/main/session-02/02_stock_data.ipynb)
 
 **目標：** 理解股價數據維度，熟悉常見資料來源，建立資料清理基本功
 
